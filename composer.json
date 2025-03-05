@@ -1,0 +1,17 @@
+{
+    "name": "dima/pizza-terminal",
+    "require": {
+        "lib-curl": "^8.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dima",
+            "email": "dima@gmail.com"
+        }
+    ]
+}
